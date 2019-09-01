@@ -8,4 +8,3 @@ def hi_there():
 
 def hi_there():
     print("Upate python with merge conflict") 
-
