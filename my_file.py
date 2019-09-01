@@ -7,4 +7,5 @@ def hi_there():
     print "hi"
 
 def hi_there():
-    print ("My local change") 
+    print("Upate python with merge conflict") 
+
