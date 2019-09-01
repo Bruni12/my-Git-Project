@@ -1,4 +1,5 @@
 # My Git Project
+# My Git Project
 
 > My code for the git project
 
@@ -8,4 +9,5 @@
 
 >Made changes for git pull 
 
+>Made more changes for git pull/fetch demo
 >Made more changes for git pull/fetch demo
